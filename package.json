@@ -1,0 +1,26 @@
+{
+  "name": "ui-elements",
+  "version": "1.0.0",
+  "description": "a UI library &amp; design system of native custom elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --experimental-modules server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThibaultJanBeyer/ui-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThibaultJanBeyer/ui-elements/issues"
+  },
+  "homepage": "https://github.com/ThibaultJanBeyer/ui-elements#readme",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "navigo": "^7.1.2"
+  }
+}
