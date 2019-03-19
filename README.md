@@ -1,3 +1,5 @@
+# This repo has been moved to: http://github.com/tjb-webcomponents/
+
 # ui-elements
 a UI library &amp; design system of native custom elements.
 
